@@ -1,6 +1,11 @@
-# neo-blessed
+## Looking for maintainers
 
-A fork of the original blessed with bug fixes and maintenance.
+In order to not repeat the mistakes with blessed or neo-blessed, looking 
+for maintainers to make sure there are enough people to handle the reported issues.
+
+# post-blessed
+
+A fork of the forked neo-blessed with up-to-date dependencies.
 
 A curses-like library with a high level terminal interface API for node.js.
 
