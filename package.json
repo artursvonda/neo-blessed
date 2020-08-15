@@ -1,6 +1,6 @@
 {
-  "name": "neo-blessed",
-  "description": "A fork of the original blessed with bug fixes and maintenance.",
+  "name": "post-blessed",
+  "description": "A fork of the neo-blessed with bug fixes and maintenance.",
   "author": "Christopher Jeffrey",
   "contributors": [
     {
